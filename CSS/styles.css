@@ -1,0 +1,26 @@
+html{
+    font-family: AcuminPro-Regular;
+}
+li{
+    display: inline-block;
+}
+header{
+    clear: both;
+}
+.leftnavigation{
+    /* float: left; */
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.rightnavigation{
+    /* float: right; */
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mainp{
+    margin-top: 500px;
+}

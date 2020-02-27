@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AcuminPro-Regular';
+  src: url('AcuminPro-Regular.eot');
+  src: url('AcuminPro-Regular.eot?#iefix') format('embedded-opentype'),
+       url('AcuminPro-Regular.svg#AcuminPro-Regular') format('svg'),
+       url('AcuminPro-Regular.ttf') format('truetype'),
+       url('AcuminPro-Regular.woff') format('woff'),
+       url('AcuminPro-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
