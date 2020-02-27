@@ -8,19 +8,69 @@ header{
     clear: both;
 }
 .leftnavigation{
-    /* float: left; */
+    float: left;
     margin-left: 30px;
     margin-top: 20px;
 }
 .rightnavigation{
-    /* float: right; */
+    float: right;
     margin-right: 30px;
     margin-top: 20px;
 }
-.main{
-    margin-top: 50px;
-    margin-bottom: 50px;
+.clear{
+    clear: both;
 }
-.mainp{
-    margin-top: 500px;
+.firstblockimage{
+    width: 100%;
+}
+.main{
+    top: 50px;
+    bottom: 50px;
+    position: relative;
+    z-index: 100;
+}
+.firstblockh4right{
+    position: absolute;
+    top: 40px;
+    left: 1050px;
+    color: #878F9A;
+    /* float: right; */
+}
+.NEWARTICLE{
+    color: #5E8A93;
+    background-color: #DEFAFF;
+    border-radius: 35%;
+    padding: 10px;
+}
+.PUBLISHED{
+    color: #C9E2EC;
+}
+.firstblockh4{
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    color: #878F9A;
+    /* float: left; */
+}
+.firstblockh1{
+    position: absolute;
+    top: 70px;
+    left: 60px;
+    color: white;
+    font-size: 32px;
+}
+.firstblockp{
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    color: white;
+}
+.firstblocklastp{
+    position: absolute;
+    top: 220px;
+    left: 60px;
+    color: white;
+    background-color: #58C1DA;
+    border-radius: 20%;
+    padding: 10px;
 }
